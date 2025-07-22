@@ -1,0 +1,1 @@
+# geoserver-impala-plugin
