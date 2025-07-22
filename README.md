@@ -1,1 +1,1 @@
-# geoserver-impala-plugin
+# Impala Plugin for GeoServer
